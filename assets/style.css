@@ -14,3 +14,9 @@ body {
   .task-card:hover {
     cursor: grab;
   }
+  .warning {
+    background-color: orange;
+  }
+  .late {
+    background-color: red;
+  }
